@@ -1,0 +1,13 @@
+Name: Teimuraz Trapaidze Section: 0201
+
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examination.
+
+Digital acknowledgement: Teimuraz Trapaidze
+
+In the case that I discover not only one but several security problems in the firmware I am assigned to, I would be obligated to immediately tell my boss and nobody else. It would be critical to refrain from spreading knowledge of these bugs so that the security of the firmware does not become compromised. 
+
+By doing nothing, I would be consciously allowing the firmware to be released to customers with security flaws, thus compromising not only the reputation of the company and its success, but more importantly the safety of the customer. As such, I would definitely be responsible for any damages that result from the security flaws if I were to do nothing about them upon discovery. 
+
+I would push for the recommended amount of time and developers (6 months and 20 devs) to work on fixing the bugs, but I would also expect to not get the full extend of what I ask for. For example, if the company is willing to fund 10 developers for 3 months to work on fixing the flaws but refuses to fund any more time or devs, then I would be okay with it so long as the issues are being worked on. However, if the company refuses to give any time or developers to work on the issue, I would threaten to leave the company - I cannot be involved with a corporation that knowingly produces and distributes products with security flaws. 
+
+One could argue that since I did not create the flaws in the firmware, I would not be responsible for any damage that results from them. I would respond by arguing that it does not matter who created them - anyone that is aware of the flaws has a responsibility to correct them. 
