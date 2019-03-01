@@ -42,6 +42,4 @@ known to be common passwords.
 The third thing I would tel her about is how I found which of her ports were open using 
 nmap. This is how I was able to connect to her server and log into her account, which is
 clearly a problem. Similar to the first issue, she could put her servers behind some
-firewalls. 
-
-*Replace this text with your repsonse to our prompt for part 1!*
+firewalls.
