@@ -12,11 +12,14 @@ Digital acknowledgement: *Teimuraz Trapaidze*
 ### Part 1 (40 pts)
 
 I'm going to use the following questions to establish a pretext: 
+
     Who are you pretending to be?
         I am pretending to be an employee associated with Elizabeth Moffet's bank. 
+
     Why are you calling/talking to your target? 
         I am calling because there was a security issue recognized with her account, 
         and her account has been "flagged as vulnerable". 
+        
     Why do you need the information you are asking for?
         In order to restore her account to full access, she needs to answer her 
         "security questions" and confirm her pin number. 
