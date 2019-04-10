@@ -27,6 +27,7 @@
 import socket
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 host = "142.93.136.81" # IP address here
 port = 1337 # Port here
 wordlist = "rockyou.txt" # Point to wordlist file; had to download because currently having issues with VM
@@ -35,6 +36,11 @@ host = "" # IP address here
 port = 0000 # Port here
 wordlist = "/usr/share/wordlists/rockyou.txt" # Point to wordlist file
 >>>>>>> upstream/master
+=======
+host = "142.93.136.81" # IP address here
+port = 1337 # Port here
+wordlist = "rockyou.txt" # Point to wordlist file; had to download because currently having issues with VM
+>>>>>>> 145c3c6bcd28ed7c68034266714738d438eed305
 
 def brute_force():
     """
@@ -62,6 +68,9 @@ def brute_force():
     """
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 145c3c6bcd28ed7c68034266714738d438eed305
     f = open(wordlist, 'r')
     user = "v0idcache"
     password = f.readline()
@@ -83,10 +92,13 @@ def brute_force():
         s.close()
 
             
+<<<<<<< HEAD
 =======
     username = ""   # Hint: use OSINT
     password = ""   # Hint: use wordlist
 >>>>>>> upstream/master
+=======
+>>>>>>> 145c3c6bcd28ed7c68034266714738d438eed305
 
 
 

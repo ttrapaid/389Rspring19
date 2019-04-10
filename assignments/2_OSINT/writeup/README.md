@@ -1,6 +1,7 @@
 # Writeup 2 - OSINT
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Name: *Teimuraz Trapaidze*
 Section: *0201E*
 
@@ -15,12 +16,23 @@ I pledge on my honor that I have not given or received any unauthorized assistan
 
 Digital acknowledgement: *PUT YOUR NAME HERE*
 >>>>>>> upstream/master
+=======
+Name: *Teimuraz Trapaidze*
+Section: *0201E*
+
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
+
+Digital acknowledgement: *Teimuraz Trapaidze*
+>>>>>>> 145c3c6bcd28ed7c68034266714738d438eed305
 
 ## Assignment Writeup
 
 ### Part 1 (45 pts)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 145c3c6bcd28ed7c68034266714738d438eed305
 1.
 v0idcache's real name is Elizabeth Moffet.
 
@@ -70,6 +82,7 @@ Message and another flag: "CMSC389R-{h1d3_s3cret_g1ts}"
 Something else I found but did not know what to make use of was when I googled the username
 V0idcache, one of the results was a link to a pastebin file - https://pastebin.com/WghDuAr7.
 It appears to be a log of v0idcache and some user named "fl1nch," where they make mention of a file called "AB4300.txt".
+<<<<<<< HEAD
 
 ### Part 2 (75 pts)
 
@@ -93,3 +106,21 @@ Inside AB4300.txt (from earlier), I found CMSC389R-{YWX4H3d3Bz6dx9lG32Odv0JZh}.
 
 *Please use this space to detail your approach and solutions for part 2. Don't forget to upload yourcompleted source code to this /writeup directory as well!*
 >>>>>>> upstream/master
+=======
+
+### Part 2 (75 pts)
+
+I edited stub.py to achieve what this part of the assignment was asking for.
+I simply used a while loop to iterate through the rockyou.txt file and repeatedly open
+and close a socket connection to 142.93.136.81 and try a different password each time,
+knowing that the username was v0idcache. Then, once I found the password, I simply used
+a python environment to send linux commands through a socket to the shell (s.send) and
+read the result with s.recv (of course I had to log in with the user name and pass first).
+
+I found the flag file within the "root@3ec51ffed684:/home#" directory, called flag.txt.
+The file contained the following: "Good work! Here's a flag: CMSC389R-{brut3_f0rce_m4ster}"
+
+Inside AB4300.txt (from earlier), I found CMSC389R-{YWX4H3d3Bz6dx9lG32Odv0JZh}.
+
+
+>>>>>>> 145c3c6bcd28ed7c68034266714738d438eed305
