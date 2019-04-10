@@ -1,16 +1,26 @@
 # Writeup 2 - OSINT
 
+<<<<<<< HEAD
 Name: *Teimuraz Trapaidze*
 Section: *0201E*
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
 
 Digital acknowledgement: *Teimuraz Trapaidze*
+=======
+Name: *PUT YOUR NAME HERE*
+Section: *PUT YOUR SECTION NUMBER HERE*
+
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
+
+Digital acknowledgement: *PUT YOUR NAME HERE*
+>>>>>>> upstream/master
 
 ## Assignment Writeup
 
 ### Part 1 (45 pts)
 
+<<<<<<< HEAD
 1.
 v0idcache's real name is Elizabeth Moffet.
 
@@ -76,3 +86,10 @@ The file contained the following: "Good work! Here's a flag: CMSC389R-{brut3_f0r
 Inside AB4300.txt (from earlier), I found CMSC389R-{YWX4H3d3Bz6dx9lG32Odv0JZh}.
 
 
+=======
+*Please use this space to writeup your answers and solutions (and how you found them!) for part 1.*
+
+### Part 2 (75 pts)
+
+*Please use this space to detail your approach and solutions for part 2. Don't forget to upload yourcompleted source code to this /writeup directory as well!*
+>>>>>>> upstream/master

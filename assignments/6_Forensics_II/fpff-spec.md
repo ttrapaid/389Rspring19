@@ -193,13 +193,21 @@ a proper FPFF parser **must** re-add the signature to produce the actual PNG.
 Sections of type `SECTION_GIF87` **must** contain `slen` bytes of [GIF87-encoded](https://www.w3.org/Graphics/GIF/spec-gif87.txt) data.
 
 As a space-saving measure, a proper FPFF emitter **must** remove the GIF's file signature. Thus,
+<<<<<<< HEAD
 a proper FPFF parser **must** re-add the signature to produce the actual PNG.
+=======
+a proper FPFF parser **must** re-add the signature to produce the actual GIF.
+>>>>>>> upstream/master
 
 ##### `SECTION_GIF89`
 Sections of type `SECTION_GIF89` **must** contain `slen` bytes of GIF89-encoded data.
 
 As a space-saving measure, a proper FPFF emitter **must** remove the GIF's file signature. Thus,
+<<<<<<< HEAD
 a proper FPFF parser **must** re-add the signature to produce the actual PNG.
+=======
+a proper FPFF parser **must** re-add the signature to produce the actual GIF.
+>>>>>>> upstream/master
 
 
 #### Section length

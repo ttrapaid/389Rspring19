@@ -1,16 +1,26 @@
 # Writeup 3 - Operational Security and Social Engineering
 
+<<<<<<< HEAD
 Name: *Teimuraz Trapaidze*
 Section: *0201*
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examination.
 
 Digital acknowledgement: *Teimuraz Trapaidze*
+=======
+Name: *PUT YOUR NAME HERE*
+Section: *PUT YOUR SECTION NUMBER HERE*
+
+I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examniation.
+
+Digital acknowledgement: *PUT YOUR NAME HERE*
+>>>>>>> upstream/master
 
 ## Assignment Writeup
 
 ### Part 1 (40 pts)
 
+<<<<<<< HEAD
 I'm going to use the following questions to establish a pretext: 
 
     Who are you pretending to be?
@@ -46,3 +56,10 @@ The third thing I would tel her about is how I found which of her ports were ope
 nmap. This is how I was able to connect to her server and log into her account, which is
 clearly a problem. Similar to the first issue, she could put her servers behind some
 firewalls.
+=======
+*Replace this text with your repsonse to our prompt for part 1!*
+
+### Part 2 (60 pts)
+
+*Replace this text with your repsonse to our prompt for part 1!*
+>>>>>>> upstream/master
