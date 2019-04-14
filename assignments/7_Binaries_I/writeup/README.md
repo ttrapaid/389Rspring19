@@ -21,6 +21,11 @@ int main() {
     a = 485163226;
     b = 4277009102;
     
+    a = (b ^ a) ^ (a ^ (b ^ a));
+    printf("%d", a); 
+
+    b = a ^ (b ^ a);
+    printf("%d", b);
 
     return 0;
 }
@@ -28,4 +33,5 @@ int main() {
 
 ### Part 2 (10 Pts)
 
-*Replace this text with your repsonse to our prompt for part 2!*
+This assembly program declares two static variables and then performs some math operations and stores the values into the variables. The first things stored are two hex values; then, some exclusive or operations are conducted and then stored back into the variables. Every time the value of the variables change, the new value is printed. After the last print, the program quits. 
+

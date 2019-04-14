@@ -16,6 +16,11 @@ int main() {
     a = 485163226;
     b = 4277009102;
     
+    a = (b ^ a) ^ (a ^ (b ^ a));
+    printf("%d", a); 
 
+    b = a ^ (b ^ a);
+    printf("%d", b);
+    
     return 0;
 }
