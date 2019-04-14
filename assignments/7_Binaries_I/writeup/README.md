@@ -1,12 +1,12 @@
 # Writeup 7 - Binaries I
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
+Name: Teimuraz Trapaidze
+Section: 0201
 
 I pledge on my honor that I have not given or received any unauthorized
 assistance on this assignment or examination.
 
-Digital acknowledgement: *PUT YOUR NAME HERE*
+Digital acknowledgement: Teimuraz Trapaidze
 
 ## Assignment Writeup
 
@@ -14,7 +14,16 @@ Digital acknowledgement: *PUT YOUR NAME HERE*
 
 *Put your code here as well as in main.c*
 ```c
-printf("your code here");
+int main() {
+    static int a = 0;
+    static int b = 0;
+
+    a = 485163226;
+    b = 4277009102;
+    
+
+    return 0;
+}
 ```
 
 ### Part 2 (10 Pts)

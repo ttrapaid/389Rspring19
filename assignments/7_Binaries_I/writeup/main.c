@@ -9,3 +9,13 @@
  */
 
 /* your code goes here */
+int main() {
+    static int a = 0;
+    static int b = 0;
+
+    a = 485163226;
+    b = 4277009102;
+    
+
+    return 0;
+}
